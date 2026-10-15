@@ -61,8 +61,8 @@
 
 | 项目 | 关系 |
 |------|------|
-| [skill-optimizer](https://github.com/2021291696/skill-optimizer) | 下游 — 创建之后，持续优化 |
-| [web-search-mcp](https://github.com/2021291696/web-search-mcp) | 工具 — 搜索市场上已有 skill |
+| [skill-optimizer](https://github.com/solplum/skill-optimizer) | 下游 — 创建之后，持续优化 |
+| [web-search-mcp](https://github.com/solplum/web-search-mcp) | 工具 — 搜索市场上已有 skill |
 
 ## License
 
@@ -92,4 +92,4 @@ Don't know where to start building a skill? bootstrapper guides you through brai
 
 | Project | Relationship |
 |---------|-------------|
-| [skill-optimizer](https://github.com/2021291696/skill-optimizer) | Downstream — continuous optimization after creation |
+| [skill-optimizer](https://github.com/solplum/skill-optimizer) | Downstream — continuous optimization after creation |
