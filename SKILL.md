@@ -119,8 +119,8 @@ skill 实现完成后，**询问用户是否发布到 GitHub**。不自动发布
    ```powershell
    cd <skill-dir>
    git init
-   git config user.email "2021291696@github.com"
-   git config user.name "2021291696"
+   git config user.email "solplum@github.com"
+   git config user.name "solplum"
    git add -A
    git commit -m "feat: <skill-name> — <one-line-summary>"
    gh repo create <repo-name> --public --source=. --remote=origin --push
